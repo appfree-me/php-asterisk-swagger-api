@@ -79,7 +79,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'http://localhost:8088/ari'; //fixme: make configurable
+    protected $host = 'http://localhost:8089/ari'; //fixme: make configurable
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
