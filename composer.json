@@ -1,5 +1,5 @@
 {
-    "name": "lelaurent/php-asterisk-swagger-api",
+    "name": "appfree-me/php-asterisk-swagger-api",
     "description": "PHP Bindings for Asterisk AGI",
     "keywords": [
         "swagger",
